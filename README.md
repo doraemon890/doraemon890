@@ -7,7 +7,7 @@
 
 
 
-<h1> <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=620&lines=[+⚡+] +𝙏𝙝𝙚+𝐉𝐚𝐫𝐯𝐢𝐬+𝘽𝙤𝙩𝙨+[+⚡+]"></b></b></h1>
+<h1> <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&width=620&lines=⚡+𝙏𝙝𝙚+𝐉𝐚𝐫𝐯𝐢𝐬+𝘽𝙤𝙩𝙨+⚡"></b></h1>
 
 
 <p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
