@@ -11,6 +11,9 @@
 <a href="https://github.com/doraemon890/ANNIE-X-MUSIC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=ANNIE-X-MUSIC&cache_seconds=86400&theme=gotham">
 </a>
+<a href="https://github.com/doraemon890/JARVIS-X-SPAM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=JARVIS-X-SPAM&cache_seconds=86400&theme=gotham">
+</a>
 
 
 
