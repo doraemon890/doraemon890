@@ -7,9 +7,6 @@
 
 
 
-
-
-<h1 align="center"><b><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐓𝐇𝐄+𝐉𝐀𝐑𝐕𝐈𝐒+𝐁𝐎𝐓𝐒+🌱"></b></h1>
 <h1 align="center"><b>[⚡] 𝙏𝙝𝙚 𝐉𝐚𝐫𝐯𝐢𝐬 𝘽𝙤𝙩𝙨 [⚡]</b></h1>
 
 
