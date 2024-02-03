@@ -12,13 +12,15 @@
 <h1 align="center"><b><img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🌿+𝐓𝐇𝐄+𝐉𝐀𝐑𝐕𝐈𝐒+𝐁𝐎𝐓𝐒+🌱"></b></h1>
 <h1 align="center"><b>[⚡] 𝙏𝙝𝙚 𝐉𝐚𝐫𝐯𝐢𝐬 𝘽𝙤𝙩𝙨 [⚡]</b></h1>
 
-<h4 align="center"> 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐁𝐎𝐓𝐒</h4>
 
 <p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XD BOTS. That is the greatest pleasure we have !
+# Some Projects
 
+<a href="https://github.com/doraemon890/ANNIE-X-MUSIC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=ANNIE-X-MUSIC&cache_seconds=86400&theme=gotham">
+</a>
 
 
 
