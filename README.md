@@ -7,7 +7,7 @@
 
 
 
-<h1> <align="center" [⚡] 𝙏𝙝𝙚 𝐉𝐚𝐫𝐯𝐢𝐬 𝘽𝙤𝙩𝙨 [⚡]></h1>
+<h1> <align="center" = [⚡] 𝙏𝙝𝙚 𝐉𝐚𝐫𝐯𝐢𝐬 𝘽𝙤𝙩𝙨 [⚡]></h1>
 
 
 <p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/83db3b7786ffa9948962b.jpg" width="400"></a></p>
