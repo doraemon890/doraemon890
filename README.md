@@ -20,15 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=JARVIS-X-SPAM&cache_seconds=86400&theme=gotham">
 </a>
 
-
-
-<details>
-<summary><b>ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ</b></summary>
-<br>
-<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
-   
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://t.me/jarvis2O) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/doraemon890) 
-</details>
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <a href="https://t.me/BWANDARLOK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
