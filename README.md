@@ -14,7 +14,7 @@
 - 👯 All my public projects are easily accessible here.<br>
 - 🌱 I’m currently learning Python.<br>
 - 💬 Feel free to inquire about Bot Development<br>
-
+<br/>
 <h1 align="left">🌐 Socials Contact: </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajnish_mishra____) 
