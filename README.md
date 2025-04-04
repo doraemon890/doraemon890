@@ -11,7 +11,7 @@
         <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+RAJNISH+MISHRA+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
       </td>
     </tr>
   </table>
@@ -24,7 +24,7 @@
 
 <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doraemon890&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CertifiedCoderS&style=flat-square" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
     </ul>
   </td>
   <td width="30%" align="center">
-    <img src="https://github.com/doraemon890/doraemon890/blob/main/Robo.webp" width="170" alt="Robo" />
+    <img src="https://github.com/CertifiedCoderS/CertifiedCoderS/blob/main/Robo.webp" width="170" alt="Robo" />
   </td>
 </tr>
 </table>
@@ -109,17 +109,17 @@
 
 <!-- 📈 Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doraemon890&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CertifiedCoderS&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" />
 </p>
 
 <!-- 🧠 Streak | Summary -->
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=doraemon890&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" />
+      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=CertifiedCoderS&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" />
     </td>
     <td width="50%">
-      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=doraemon890&theme=dracula" />
+      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=CertifiedCoderS&theme=dracula" />
     </td>
   </tr>
 </table>
@@ -128,10 +128,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=doraemon890&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=CertifiedCoderS&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon890&layout=compact&theme=dracula&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CertifiedCoderS&layout=compact&theme=dracula&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -143,13 +143,13 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/doraemon890/ANNIE-X-MUSIC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=ANNIE-X-MUSIC&theme=dracula&hide_border=true" />
+      <a href="https://github.com/CertifiedCoderS/ANNIE-X-MUSIC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoderS&repo=ANNIE-X-MUSIC&theme=dracula&hide_border=true" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/doraemon890/AvaRobot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=AvaRobot&theme=dracula&hide_border=true" />
+      <a href="https://github.com/CertifiedCoderS/AvaRobot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CertifiedCoderS&repo=AvaRobot&theme=dracula&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -160,7 +160,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=doraemon890&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CertifiedCoderS&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
 ---
