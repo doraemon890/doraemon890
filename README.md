@@ -1,20 +1,20 @@
-<!-- Animated Header -->
+<!-- ✨ Animated Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
 <h3 align="center">
   <img src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
 </h3>
 
+<!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://komarev.com/ghpvc/?username=doraemon890&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=doraemon890&style=flat-square"/>
-</p>
+---
+
 ## 📌 About Me
 
 <img align="right" src="https://github.com/doraemon890/doraemon890/blob/main/Robo.webp" width="170"/>
@@ -37,66 +37,59 @@
 
 ## 💻 Tech Stack
 
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
-
-**Cloud & DevOps**
-
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-**Design & Version Control**
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php,mysql,mongodb,postgres,redis,aws,gcp,azure,heroku,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
+<!-- 📈 Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=doraemon890&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" />
+</p>
+
+<!-- 🧠 Streak | Summary -->
 <table>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=doraemon890&bg_color=06040e&line=bd83b8&point=bd83b8&area=true&hide_border=true" />
+    <td width="50%">
+      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=doraemon890&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d&stroke=f1916d&ring=bd83b8&fire=f1916d&currStreakLabel=f1916d&dates=ffffff" />
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats-two-beige.vercel.app?user=doraemon890&theme=javascript-dark&background=45%2C150536%2C520352&border=f1916d" />
-    </td>
-    <td>
-      <img src="http://profile-summary-card.vercel.app/api/cards/profile-details?username=doraemon890&theme=dracula" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats-rishilahotis-projects.vercel.app/api?username=doraemon890&include_all_commits=true&theme=dracula&show_icons=true" />
+    <td width="50%">
+      <img src="https://profile-summary-card.vercel.app/api/cards/profile-details?username=doraemon890&theme=dracula" />
     </td>
   </tr>
 </table>
 
+<!-- ⚡ Stats | 🌐 Languages -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=doraemon890&theme=dracula&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemon890&layout=compact&theme=dracula&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+
+
+## 🚀 Featured Projects
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <a href="https://github.com/doraemon890/ANNIE-X-MUSIC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=ANNIE-X-MUSIC&theme=dracula&hide_border=true" />
+  </a>
+  <a href="https://github.com/doraemon890/AvaRobot">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=doraemon890&repo=AvaRobot&theme=dracula&hide_border=true" />
+  </a>
 </p>
 
+---
 
 ## 🏆 GitHub Trophies
 
@@ -104,7 +97,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=doraemon890&theme=dracula&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
+---
 
+<!-- 🔚 Final Footer GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
