@@ -1,16 +1,23 @@
-<!-- ✨ Animated Header -->
+<!-- ✨ Animated Header (Top) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<h3 align="left">
-  <span>
-    <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="vertical-align: middle; margin-right: 10px;" />
-    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" style="vertical-align: middle;" />
-  </span>
-</h3>
+<!-- 👤 Avatar + Typing Banner -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="100px" align="center">
+        <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="border-radius: 50%;" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=600&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-
+<!-- ✨ Animated Header (Bottom) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
@@ -20,21 +27,23 @@
   <img src="https://komarev.com/ghpvc/?username=doraemon890&style=flat-square" />
 </p>
 
+---
+
 ## 📌 About Me
 
 <table>
 <tr>
-<td width="70%">
-<ul>
-  <li>🔭 Working on <strong>Telegram Bots</strong></li>
-  <li>💬 Passionate about <strong>Bot Development</strong></li>
-  <li>🌱 Currently learning <strong>Python</strong></li>
-  <li>👀 Check out my public projects below!</li>
-</ul>
-</td>
-<td width="30%">
-  <img src="https://github.com/doraemon890/doraemon890/blob/main/Robo.webp" width="170"/>
-</td>
+  <td width="70%" style="padding-right: 30px; vertical-align: top;">
+    <ul>
+      <li>🔭 Working on <strong>Telegram Bots</strong></li>
+      <li>💬 Passionate about <strong>Bot Development</strong></li>
+      <li>🌱 Currently learning <strong>Python</strong></li>
+      <li>👀 Check out my public projects below!</li>
+    </ul>
+  </td>
+  <td width="30%" align="center">
+    <img src="https://github.com/doraemon890/doraemon890/blob/main/Robo.webp" width="170" alt="Robo" />
+  </td>
 </tr>
 </table>
 
