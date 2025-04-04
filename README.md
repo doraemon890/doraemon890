@@ -4,16 +4,18 @@
 </p>
 
 <h3 align="center">
-  <img src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px">
+  <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
 </h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
 <!-- 👁 Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=doraemon890&style=flat-square" />
 </p>
-
----
 
 ## 📌 About Me
 
