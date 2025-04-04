@@ -4,9 +4,12 @@
 </p>
 
 <h3 align="left">
-  <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" />
+  <span>
+    <img src="https://files.catbox.moe/r2ga8f.jpg" width="90px" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+💗+WELCOME+TO+MY+GITHUB;🖤+THIS+IS+VIP+RAJNISH+XD+🥀;💓+THANK+YOU+FOR+VISITING+MY+PROFILE+🌲+❗️" style="vertical-align: middle;" />
+  </span>
 </h3>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
